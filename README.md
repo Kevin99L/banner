@@ -3,10 +3,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/kevin99L/maskUrl?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/kevin99l/maskUrl?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/kevin99l/maskUrl?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/kevin99l/maskUrl?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/kevin99L/banner?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/kevin99l/banner?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/kevin99l/banner?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/kevin99l/banner?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
