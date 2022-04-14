@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## How to use
 
-<img align="center" width="100" height="100" src=".imgs/how-to-use-banner.gif">
+<img align="center" width="700" height="300" src=".imgs/how-to-use-banner.gif">
 
 <br><br>
 
