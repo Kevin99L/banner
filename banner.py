@@ -10,8 +10,7 @@ def banner(bannerName):
     354,362,364,385,386,414]
     index = choice(goodFonts)
     result = pyfiglet.figlet_format(bannerName,font=fonts[index])
-    result2 = pyfiglet.figlet_format("Author  :  Kevin.L",font="term")
-    print(result, " "*50+"[version 1.0]", "instagram : @kevindotl\n", result2,sep="\n")
+    print(result)
 
 if __name__ == "__main__":
-    banner("ALI")
+    banner("Kevin.L")
