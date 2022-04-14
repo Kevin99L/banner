@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".imgs/banner-logo.png">
+  <img src=".imgs/banner-logo.PNG">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
